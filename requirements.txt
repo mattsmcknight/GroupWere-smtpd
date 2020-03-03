@@ -1,0 +1,14 @@
+aiosmtpd==1.2
+atpublic==1.0
+attrs==19.3.0
+cffi==1.14.0
+chardet==3.0.4
+cryptography==2.8
+flanker==0.9.11
+idna==2.9
+ply==3.11
+pycparser==2.19
+regex==2020.2.20
+six==1.14.0
+tld==0.11.10
+WebOb==1.8.6
