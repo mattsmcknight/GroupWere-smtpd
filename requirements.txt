@@ -3,7 +3,7 @@ atpublic==1.0
 attrs==19.3.0
 cffi==1.14.0
 chardet==3.0.4
-cryptography==2.8
+cryptography==3.2
 flanker==0.9.11
 idna==2.9
 ply==3.11
